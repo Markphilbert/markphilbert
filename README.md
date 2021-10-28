@@ -6,22 +6,42 @@
 
 <br>
 
-<p>Feel free to look through my repositories to look at some code I've written or check out my portfolio below to see some projects I've created.
-<br> Link: 
-  <a href="https://markphilbert.netlify.app/">My Portfolio</a></p>
+<h2 align="center">PROJECTS</h2>
 
- <br>
+<div style="display:flex;">
   
-- I’m currently working on a personal project built entirely in Vue. As I build I continuously push myself to use new Vue features I am unfamiliar with.
-- I’ve recently started learning Svelte and Quasar.
-- How to reach me: Shoot me an email at markadrianphilbert91@gmail.com or find me on social media using links below.
-- Fun fact: I LOVE card games and mobile games I can play on the go... And extremely long code related conversations.
+<div>
+  
+  <h4>ShoesOverflow</h4>
+  <p>Link: <a href="https://shoesoverflow.netlify.app/">Visit Site</a></p>
+  <p>Link: <a href="https://github.com/Markphilbert/ShoesOverflow">Code</a></p>
+  <a href="https://shoesoverflow.netlify.app/">
+    <img src="https://user-images.githubusercontent.com/84154978/139313838-df610f7a-a911-4204-b643-0a65c46c06d3.gif" style="max-width:100%;">
+  </a>
+  <p>A subscription based shoe store that was created using Vue3.</p>
+  
+</div>
+  
+<br>
+  
+<div>
+  
+  <h4>HTML Email Clone</h4>
+  <p>Link: <a href="https://emailcloneproject-markphilbert.netlify.app/">Visit Site</a></p>
+  <p>Link: <a href="https://github.com/Markphilbert/HTML-Email">Code</a></p>
+  <a href="https://shoesoverflow.netlify.app/">
+    <img src="https://user-images.githubusercontent.com/84154978/139313385-ccaff544-6d23-4e91-a36e-a9296fce82a5.gif" style="max-width:100%;">
+  </a>
+  <p>A clone of an email advertisement I recieved from a Google Promotion.<br>All links work and it is a replica of the email I recieved.</p>
+  
+</div>
+</div>
 
 <br>
 
 <h2 align="center">MY SKILLS</h2>
 
-<p align="center">
+<div align="center">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="50" width="50">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="50" width="50">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="50"width="50">
@@ -33,12 +53,12 @@
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="50" width="50">
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50" width="50">
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="50" width="50">
-</p>
+</div>
 
 <br>
 
 <h2 align="center">CONTACT ME</h2>
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/mark-philbert/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="My LinkedIn Profile" height="50" width="50">
   </a>
@@ -50,7 +70,7 @@
   <a href="https://twitter.com/lvl0dev">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="My Twitter Profile" height="50" width="50">
   </a>
-</p>
+</div>
 
 <br>
 
