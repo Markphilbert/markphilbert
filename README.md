@@ -8,7 +8,7 @@
 
 <h2 align="center">PROJECTS</h2>
 
-<div style="display:flex;">
+<div>
   
 <div>
   
