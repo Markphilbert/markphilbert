@@ -26,13 +26,13 @@
   
 <div>
   
-  <h4>HTML Email Clone</h4>
-  <p>Link: <a href="https://emailcloneproject-markphilbert.netlify.app/">Visit Site</a></p>
-  <p>Link: <a href="https://github.com/Markphilbert/HTML-Email">Code</a></p>
-  <a href="https://shoesoverflow.netlify.app/">
-    <img src="https://user-images.githubusercontent.com/84154978/139313385-ccaff544-6d23-4e91-a36e-a9296fce82a5.gif" style="max-width:100%;">
+  <h4>Numinix App</h4>
+  <p>Link: <a href="https://numinix-project.netlify.app/">Visit Site</a></p>
+  <p>Link: <a href="https://github.com/Markphilbert/numinix">Code</a></p>
+  <a href="https://numinix-project.netlify.app/">
+    <img src="https://user-images.githubusercontent.com/84154978/139726081-abba82ed-526d-417e-b419-75b4414c4009.gif" style="max-width:100%;">
   </a>
-  <p>A clone of an email advertisement I recieved from a Google Promotion.<br>All links work and it is a replica of the email I recieved.</p>
+  <p>A Project built for Numinix for an interview of my skills.</p>
   
 </div>
 </div>
