@@ -32,7 +32,7 @@
   <a href="https://numinix-project.netlify.app/">
     <img src="https://user-images.githubusercontent.com/84154978/139726081-abba82ed-526d-417e-b419-75b4414c4009.gif" style="max-width:100%;">
   </a>
-  <p>A Project built for Numinix for an interview of my skills.</p>
+  <p>A Project built for Numinix used to interview my skills.</p>
   
 </div>
 </div>
