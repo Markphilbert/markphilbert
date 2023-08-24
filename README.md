@@ -9,7 +9,21 @@
 <h2 align="center">PROJECTS</h2>
 
 <div>
+
+<div>
   
+  <h4>ThreeJS Portfolio</h4>
+  <p>Link: <a href="https://markphilbert.netlify.app/">Visit Site</a></p>
+  <p>Link: <a href="https://github.com/Markphilbert/threeJS_Portfolio">Code</a></p>
+  <a href="https://markphilbert.netlify.app/">
+    <img src="https://github.com/Markphilbert/markphilbert/assets/84154978/c60f8a78-7e33-40ab-a833-035b27d181a2" style="max-width:100%;">
+  </a>
+
+  <p>A subscription based shoe store that was created using Vue3.</p>
+  
+</div>
+  
+<br>
 <div>
   
   <h4>ShoesOverflow</h4>
