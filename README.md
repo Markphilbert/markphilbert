@@ -47,12 +47,13 @@
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="50"width="50">
   <br>
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" height="50"width="50">
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height="50" width="50">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" width="50">
-  <br>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50" width="50">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50" width="50">
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="50" width="50">
+  
+  <br>
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height="50" width="50">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" width="50">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" width="50">
 </div>
 
 <br>
