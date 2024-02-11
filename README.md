@@ -19,7 +19,7 @@
     <img src="https://github.com/Markphilbert/markphilbert/assets/84154978/c60f8a78-7e33-40ab-a833-035b27d181a2" style="max-width:100%;">
   </a>
 
-  <p>A subscription based shoe store that was created using Vue3.</p>
+  <p>This is my portfolio created using React and a ThreeJS Library.</p>
   
 </div>
   
