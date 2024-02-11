@@ -85,9 +85,13 @@
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="My Twitter Profile" height="50" width="50">
   </a>
 </div>
+<br>
+<br>
+Here is a respository with my resume for those who would like to view it.
+
+Link: https://github.com/Markphilbert/resume
 
 <br>
-
 <p>Thank you for your time.</p>
 
 <br>
