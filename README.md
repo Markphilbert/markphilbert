@@ -33,7 +33,7 @@
 
   </a>
 
-  <p>A python program that builds a maze and is able to solve it. Currently, tkinter is used to visualize the maze.</p>
+  <p>A python program that builds a maze and is able to solve it.</p>
   
 </div>
   
