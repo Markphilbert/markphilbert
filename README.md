@@ -2,7 +2,7 @@
 
 <br>
 
-<p>I am a Front-End Developer with extensive knowledge in Vue, JavaScript, HTML, and SASS/CSS. As a Software Developer I aspire to create awesome projects and to gain as much knowledge as I can to grow and strive in this field.</p>
+<p>Experienced software developer with a specialization in JavaScript and Python, focusing on backend development. Committed to continuously learning technology.</p>
 
 <br>
 
@@ -17,6 +17,20 @@
   <p>Link: <a href="https://github.com/Markphilbert/threeJS_Portfolio">Code</a></p>
   <a href="https://markphilbert.netlify.app/">
     <img src="https://github.com/Markphilbert/markphilbert/assets/84154978/c60f8a78-7e33-40ab-a833-035b27d181a2" style="max-width:100%;">
+  </a>
+
+  <p>This is my portfolio created using React and a ThreeJS Library.</p>
+  
+</div>
+  
+<br>
+<div>
+  
+  <h4>Maze Solver</h4>
+  <p>Link: <a href="https://github.com/Markphilbert/Maze_Solver">Code</a></p>
+  <a href="https://github.com/Markphilbert/Maze_Solver">
+    <img src="https://github.com/Markphilbert/markphilbert/assets/84154978/d959c7d5-d2cc-47db-bf4e-1d66e5695c55" style="max-width:100%;">
+
   </a>
 
   <p>This is my portfolio created using React and a ThreeJS Library.</p>
