@@ -2,7 +2,7 @@
 
 <br>
 
-<p>Experienced software developer with a specialization in JavaScript and Python, focusing on backend development. Committed to continuously learning technology.</p>
+<p>Intermediate Frontend Developer with 5+ years of experience specializing in JavaScript and Python.</p>
 
 <br>
 
