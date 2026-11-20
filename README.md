@@ -85,21 +85,16 @@
 <div align="center">
   <table>
    <tr>
-     <td width="33.3%" valign="top">
+     <td width="50%" valign="top">
       <a href="https://www.linkedin.com/in/mark-philbert/">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="My LinkedIn Profile" height="50" width="50">
       </a>
     </td>
-    <td width="33.3%" valign="top">
+    <td width="50%" valign="top">
       <a href="mailto:markadrianphilbert91@gmail.com">
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="My Email" height="50" width="50">
       </a>
-    </td>
-    <td width="33.3%" valign="top">
-      <a href="https://twitter.com/lvl0dev">
-        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="My Twitter Profile" height="50" width="50">
-      </a>
-    </td>
+    </td> 
   </tr> 
 </table>  
 </div>
